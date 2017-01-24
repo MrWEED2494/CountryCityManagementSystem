@@ -1,0 +1,43 @@
+﻿body {
+    background-color:#bee4f7;
+}
+#form1{
+    margin-top: 100px;
+    margin-left:50px;
+    margin-right:100px;
+    height: auto;
+}
+#div{
+    padding-top:20px;
+    padding-bottom:10px;
+
+    margin-bottom:20px;
+    margin-top:50px;
+    
+    
+   
+}
+.div{
+   padding-top:10px;
+   padding-bottom:10px;
+   margin-top:10px;
+   margin-bottom:10px;
+}
+
+.Grid{
+    padding-bottom:70px;
+}
+#divbutton{
+    padding-top: 20px;
+}
+
+#nameTextBox input[type="text"] {
+  border: solid 5px #c9c9c9;
+  box-shadow: inset 0 0 0 1px #707070;
+  transition: box-shadow 0.3s, border 0.3s;
+}
+#nameTextBox input[type="text"]:focus,
+#nameTextBox input[type="text"].focus {
+  border: solid 5px #969696;
+}
+
